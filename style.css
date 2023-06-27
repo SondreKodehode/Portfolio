@@ -1,0 +1,37 @@
+header{
+    height: 80px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+}
+
+footer {
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    background-color: gray;
+}
+
+nav {
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+
+.section_0 {
+    display: flex;
+}
+
+.section_1 {
+    text-align: center;
+    border-top: solid;
+    border-bottom: solid;
+}
+
+.section_2 {
+    text-align: center;
+}
